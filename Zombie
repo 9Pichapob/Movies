@@ -6,6 +6,27 @@
  "groups": [
 
   {
+   "name": "28 Days Later",
+   "info": "HD th IMDb n/a",
+ "image": "https://www.123-hdd.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน-250x350.png",
+   "stations": [
+    {
+     "name": "28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
+     "info": "หนังฝรั่ง, พากย์ไทย",
+ "image": "https://www.123-hdd.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน-250x350.png",
+     "url": "https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be34c5917b47.m3u8",
+     "referer": "https://www.123-hdd.com/"
+    },
+    {
+     "name": "28 Weeks Later (2007) มหันตภัยเชื้อนรกถล่มเมือง",
+     "info": "หนังฝรั่ง, พากย์ไทย",
+     "image": "https://www.123-hdd.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8",
+     "referer": "https://www.123-hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "Newtopia (2025) (พากย์ไทย)",
    "info": "HD th IMDb n/a",
    "image": "https://www.serieday-hd.com/wp-content/uploads/2025/02/Newtopia-2025-240x300.jpg",
