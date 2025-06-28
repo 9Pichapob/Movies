@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/DEPT.-Q-2025-แผนกคดีปิดไม่ลง-187x269.png" group-title="NETFLIX",DEPT. Q (2025) แผนกคดีปิดไม่ลง พากย์ไทย
+#EXTVLCOPT:http-referrer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/95990ad4ae56013655458579/95990ad4ae56013655458579.m3u8
 #EXTINF:-1 tvg-logo="https://nanamovies.net/wp-content/uploads/2025/06/Straw-2025.webp" group-title="NETFLIX",Straw (2025) ฟางเส้นสุดท้าย พากย์ไทย
 #EXTVLCOPT:http-referrer=https://www.nanamovies.me/
 https://nanaplayer.com/y1zq2hmpmpbz
