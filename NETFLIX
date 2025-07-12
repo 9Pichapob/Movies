@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-6.jpg" group-title="NETFLIX", Madeas Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน พากย์ไทย
+#EXTVLCOPT:http-referrer=https://moviesdoofree.com/
+https://serverdatam3u8.com/movie/M15382.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/DEPT.-Q-2025-แผนกคดีปิดไม่ลง-187x269.png" group-title="NETFLIX",DEPT. Q (2025) แผนกคดีปิดไม่ลง พากย์ไทย
 #EXTVLCOPT:http-referrer=https://www.24-hdd.com/
 https://main.24playerhd.com/newplaylist/95990ad4ae56013655458579/95990ad4ae56013655458579.m3u8
