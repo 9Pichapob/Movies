@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://nanamovies.org/wp-content/uploads/2025/07/Almost-Cops-2025.webp" group-title="NETFLIX",Almost Cops (2025) คู่สืบ คู่อันตราย พากย์ไทย
+#EXTVLCOPT:http-referrer=https://www.nanamovies.me/
+https://nanaplayer.com/0ymi568a9boa
 #EXTINF:-1 tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-6.jpg" group-title="NETFLIX", Madeas Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน พากย์ไทย
 #EXTVLCOPT:http-referrer=https://moviesdoofree.com/
 https://serverdatam3u8.com/movie/M15382.mp4/playlist.m3u8
