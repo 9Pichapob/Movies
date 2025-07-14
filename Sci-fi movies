@@ -4,6 +4,21 @@
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+
+  {
+   "name": "John Carter (2012) นักรบสงครามข้ามจักรวาล",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2016/05/John-Carter-2012.jpg.webp",
+   "stations": [
+    {
+     "name": "John Carter (2012) นักรบสงครามข้ามจักรวาล",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/05/John-Carter-2012.jpg.webp",
+     "url": "https://nanaplayer.com/9mnvkta0efyg",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
   {
    "name": "Transformers One - ทรานส์ฟอร์เมอร์ส 1 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg",
