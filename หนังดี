@@ -4,6 +4,49 @@
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
  "groups": [
+
+  {
+   "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม",
+   "info": "HD th IMDb 8.9 /10",
+   "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/schindlerslist2.jpg",
+   "stations": [
+    {
+     "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/schindlerslist2.jpg",
+     "url": "https://master.streamhls.com/filesr2/1bd08d37058113976172ff81976844f8/720/index",
+     "referer": "https://www.v8-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of the Rings 3: The Return of the King (2003) มหาสงครามชิงพิภพ",
+   "info": "HD th IMDb 8.9 /10",
+   "image": "https://nanamovies.org/wp-content/uploads/2019/01/The-Lord-of-the-Rings-The-Return-of-the-King-2003.jpeg.webp",
+   "stations": [
+    {
+     "name": "The Lord of the Rings 3: The Return of the King (2003) มหาสงครามชิงพิภพ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2019/01/The-Lord-of-the-Rings-The-Return-of-the-King-2003.jpeg.webp",
+     "url": "https://nanaplayer.com/x780l4hrby7h",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "The Grand Budapest Hotel (2014) คดีพิสดารโรงแรมแกรนด์บูดาเปสต์",
+   "info": "HD th IMDb 8.1",
+   "image": "https://nanamovies.org/wp-content/uploads/2016/06/The-Grand-Budapest-Hotel-2014.jpg.webp",
+   "stations": [
+    {
+     "name": "The Grand Budapest Hotel (2014) คดีพิสดารโรงแรมแกรนด์บูดาเปสต์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/06/The-Grand-Budapest-Hotel-2014.jpg.webp",
+     "url": "https://nanaplayer.com/k9nvxruhos0w",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
   {
    "name": "ดินแดนไร้เสียง วันที่หนึ่ง (2024) A Quiet Place Day One",
    "image": "https://de88.me/wp-content/uploads/2024/09/ดินแดนไร้เสียงวันที่หนึ่ง2024AQuietPlaceDayOne-400x245.jpg",
