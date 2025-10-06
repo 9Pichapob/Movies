@@ -6,6 +6,31 @@
  "groups": [
 
   {
+   "name": "From Vegas to Macau โคตรเซียนมาเก๊า เขย่าเวกัส ",
+     "info": "หนังจีน พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2016/09/From-Vegas-to-Macau-2014.jpeg.webp",
+   "stations": [
+    {
+     "name": "From Vegas to Macau (2014) โคตรเซียนมาเก๊า เขย่าเวกัส ",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/09/From-Vegas-to-Macau-2014.jpeg.webp",
+     "url": "https://nanaplayer.com/ltmffdvu75tr",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "From Vegas to Macau II (2015) โคตรเซียนมาเก๊า เขย่าเวกัส 2",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/09/From-Vegas-to-Macau-II-2015.jpeg.webp",
+     "url": "https://nanaplayer.com/y5heuq02eo6t",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "From Vegas To Macau 3 (2016) โคตรเซียนมาเก๊า เขย่าเวกัส 3",
+     "image": "https://nanamovies.org/wp-content/uploads/2017/02/From-Vegas-To-Macau-3-2016.jpeg.webp",
+     "url": "https://nanaplayer.com/i864z1wb3btd",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม",
    "info": "HD th IMDb 8.9 /10",
    "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/schindlerslist2.jpg",
