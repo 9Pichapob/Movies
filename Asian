@@ -3,6 +3,19 @@
         "image": "https://img2.pic.in.th/pic/ChinaMovie-V5.png",
         "stations": [
 
+  {
+   "name": "Mantis (2025) ตั้กแตนนักฆ่า",
+   "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://lk-hd24.com/wp-content/uploads/2025/09/Mantis-2025-ตั้กแตนนักฆ่า.jpg",
+   "stations": [
+    {
+     "name": "Mantis (2025) ตั้กแตนนักฆ่า",
+     "image": "https://lk-hd24.com/wp-content/uploads/2025/09/Mantis-2025-ตั้กแตนนักฆ่า.jpg",
+     "url": "https://original.enjoy24cdn.com/hlsr2/152dfe701377cfc6807cd2bc4f3074da/master.m3u8",
+     "referer": "https://lk-hd24.com/"
+    }
+   ]
+  },
     {
      "name": "Misi Berdarah (2025) ภารกิจเลือด",
      "info": "หนังมาเลย์ พากย์ไทย",
