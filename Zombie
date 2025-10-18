@@ -2,7 +2,7 @@
  "name": "หนังซอมบี้ Zombie Movie",
  "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
- "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+ "image": "https://t4.ftcdn.net/jpg/02/85/19/89/240_F_285198961_nM7AstzRpHFVPGFoUuag6g0Lx181tq9X.jpg",
  "groups": [
 
   {
@@ -30,6 +30,19 @@
    "image": "https://www.24-hdd.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน-187x269.png",
      "url": "https://nanaplayer.com/obrt0gvp0s3s",
      "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "Outside เอาท์ไซด์ (2024)",
+   "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://285hdmovies.com/wp-content/uploads/2024/10/Outside-2024.jpg",
+   "stations": [
+    {
+     "name": "Outside เอาท์ไซด์ (2024)",
+     "image": "https://285hdmovies.com/wp-content/uploads/2024/10/Outside-2024.jpg",
+     "url": "https://ezycdn.com/playlist-27pcesij-master.m3u8",
+     "referer": "https://285hdmovies.com/"
     }
    ]
   },
