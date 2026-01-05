@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://nanamovies.org/wp-content/uploads/2025/12/Goodbye-June-2025.webp" group-title="NETFLIX",Goodbye June (2025) ลาก่อน จูน พากย์ไทย
 #EXTVLCOPT:http-referrer=https://www.24-hdmovie.com/
 https://main.24playerhd.com/m3u8/d5a50982c2e8c813f477dc5c/d5a50982c2e8c813f477dc5c168.m3u8
+#EXTINF:-1 tvg-logo="https://nanamovies.org/wp-content/uploads/2021/07/The-8th-Night-2021-คืนที่-8-Full-HD.jpeg" group-title="NETFLIX",The 8th Night (2021) คืนที่ 8  พากย์ไทย
+#EXTVLCOPT:http-referrer=https://www.nanamovies.me/
+https://nanaplayer.com/tkor393fqzoo
 #EXTINF:-1 tvg-logo="https://nanamovies.org/wp-content/uploads/2025/07/Almost-Cops-2025.webp" group-title="NETFLIX",Almost Cops (2025) คู่สืบ คู่อันตราย พากย์ไทย
 #EXTVLCOPT:http-referrer=https://www.nanamovies.me/
 https://nanaplayer.com/0ymi568a9boa
