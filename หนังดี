@@ -6,6 +6,34 @@
  "groups": [
 
   {
+   "name": "Love Story (1970) เลิฟ สตอรี่",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2023/02/Love-Story-1970.jpg",
+   "stations": [
+    {
+     "name": "Love Story (1970) เลิฟ สตอรี่",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2023/02/Love-Story-1970.jpg",
+     "url": "https://master.streamhls.com/hls/a575ad7d30dd1eba0a1812f5d24ed06e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+
+  {
+   "name": "Melody (1971) เมโลดี้ที่รัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2020/03/4e5amwptqyo-11818-poster.jpg",
+   "stations": [
+    {
+     "name": "Melody (1971) เมโลดี้ที่รัก",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2018/04/0kByjL71kf822s0gARj.jpg",
+     "url": "https://master.streamhls.com/hls/84df4923dc3e731c257daf5d001e5996/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+
+  {
    "name": "Nobody คนธรรมดานรกเรียกพี่",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://hd.movie285.com/wp-content/uploads/2021/04/p-1713.jpg",
