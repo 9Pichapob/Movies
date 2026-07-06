@@ -1,7 +1,35 @@
 {
     "name": "หนังKUBHD",
     "image": "https://i.postimg.cc/G2sM4K17/441040.jpg",
-    "groups": [
+    "groups": 
+
+  {
+   "name": "6 Underground (2019) 6 ลับ ดับ โหด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://9.9nung.com/wp-content/uploads/6-Underground-8192.jpeg",
+   "stations": [
+    {
+     "name": "6 Underground (2019) 6 ลับ ดับ โหด",
+     "image": "https://9.9nung.com/wp-content/uploads/6-Underground-8192.jpeg",
+     "url": "https://ezycdn.stream/playlist-e87tbfs8-master.m3u8",
+     "referer": "https://hd.movie285.com/"
+    }
+   ]
+  },
+
+  {
+   "name": "Homefront (2013) โคตรคนระห่ำล่าผ่าเมือง",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://hd.movie285.com/wp-content/uploads/2020/01/3634.jpg",
+   "stations": [
+    {
+     "name": "Homefront (2013) โคตรคนระห่ำล่าผ่าเมือง",
+     "image": "https://hd.movie285.com/wp-content/uploads/2020/01/3634.jpg",
+     "url": "https://ezycdn.stream/playlist-kp32p0fh-master.m3u8",
+     "referer": "https://hd.movie285.com/"
+    }
+   ]
+  },
         {
             "uid": "biker-2026",
             "name": "Biker (2026) ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด พากย์ไทย เต็มเรื่อง ซับไทย HD",
